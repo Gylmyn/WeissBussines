@@ -1,0 +1,42 @@
+[
+  {
+    
+    "serviceId":1,
+    "service_name": "Web Design and Development",
+    "description": "Our experienced team of designers and developers will create a stunning and functional website tailored to your business needs. From responsive design to seamless user experience, we've got you covered. Your online presence starts here.",
+    "price": "$2,500 - $10,000",
+    "duration": "4-8 weeks",
+    "features": [
+      "Custom website design",
+      "Responsive web development",
+      "Content management system",
+      "User experience optimization"
+    ]
+  },
+  {
+    "serviceId":2,
+    "service_name": "Digital Marketing Solutions",
+    "description": "Boost your online visibility and reach your target audience with our comprehensive digital marketing services. We offer SEO, social media marketing, content creation, and PPC advertising. Let us help you maximize your online potential.",
+    "price": "Starting at $800/month",
+    "duration": "Ongoing",
+    "features": [
+      "Search engine optimization (SEO)",
+      "Social media marketing",
+      "Content marketing",
+      "Pay-per-click (PPC) campaigns"
+    ]
+  },
+  {
+    "serviceId":3,
+    "service_name": "E-commerce Solutions",
+    "description": "Take your business online with our e-commerce solutions. We specialize in creating secure and user-friendly online stores. From product listings to payment gateways, we provide everything you need to start selling online successfully.",
+    "price": "$5,000 - $20,000",
+    "duration": "6-12 weeks",
+    "features": [
+      "E-commerce website development",
+      "Product catalog setup",
+      "Secure payment gateways",
+      "Inventory management"
+    ]
+  }
+]

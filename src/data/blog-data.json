@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "title": "10 Essential Strategies for Business Growth",
+        "author": "John Smith",
+        "date": "2023-03-15",
+        "category": "Business Growth",
+        "content": "In today's competitive business landscape, achieving sustainable growth is essential for long-term success. Here are 10 strategies that can help your business thrive and expand. These strategies include diversifying your product offerings, expanding into new markets, optimizing your supply chain, investing in customer experience, and more."
+    },
+    {
+        "id":2,
+        "title": "The Power of Digital Marketing in Modern Business",
+        "author": "Sarah Johnson",
+        "date": "2023-04-20",
+        "category": "Digital Marketing",
+        "content": "In the digital age, traditional marketing alone won't cut it. Discover how digital marketing can revolutionize your business and help you connect with your target audience in ways never before possible. Learn about the importance of a strong online presence, social media marketing, email campaigns, and data-driven advertising strategies."
+    }
+]
