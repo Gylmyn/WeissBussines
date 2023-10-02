@@ -41,7 +41,7 @@ export const Nav = () => {
                             <path
                                 fill="currentColor"
                                 d="M23,6H1C0.4,6,0,5.6,0,5s0.4-1,1-1h22c0.6,0,1,0.4,1,1S23.6,6,23,6z"
-                            />
+                            />~
                             <path
                                 fill="currentColor"
                                 d="M23,20H1c-0.6,0-1-0.4-1-1s0.4-1,1-1h22c0.6,0,1,0.4,1,1S23.6,20,23,20z"
@@ -49,7 +49,7 @@ export const Nav = () => {
                         </svg>
                     </button>
                     {isMenuOpen && (
-                        <div className="absolute top-0 right-0 w-3/5 z-50">
+                        <div className="absolute top-0 right-0 w-3/5 z-50 ">
                             <div className="p-6 bg-white border rounded shadow-sm text-center">
                                 <div className=" mb-2 ml-36">
                                     <button

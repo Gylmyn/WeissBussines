@@ -44,7 +44,7 @@ export default function Project() {
               <div className="flex-shrink-0 relative h-12 w-12">
                 <Image
                   className="rounded-full"
-                  src="https://images.unsplash.com/photo-1669837401587-f9a4cfe3126e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=2&w=320&h=320&q=80"
+                  src="https://source.unsplash.com/random/?people"
                   alt="Image Description"
                   fill
                 />
@@ -97,17 +97,7 @@ export default function Project() {
           {/* End Avatar Media */}
           {/* Content */}
           <div className="space-y-5 md:space-y-8">
-            <figure className="w-full h-80 relative">
-              <Image
-                className="w-full object-cover rounded-xl"
-                src='https://images.unsplash.com/photo-1669837401587-f9a4cfe3126e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=2&w=320&h=320&q=80'
-                alt="Image Description"
-                fill
-              />
-              <figcaption className="mt-3 text-sm text-center text-gray-500">
-                Disini judul
-              </figcaption>
-            </figure>
+            
             <div className="space-y-3">
               <h2 className="text-2xl font-bold md:text-3xl ">{servicesData?.title}</h2>
               <p className="text-lg text-gray-800 ">{servicesData?.content}</p>
